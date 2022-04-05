@@ -1,5 +1,5 @@
-### Hi there 👋, I'm machuwey
-## also known as Matvey or Moflod
+# Hi there 👋, I'm machuwey
+### also known as Matvey or Moflod
 Focusing rigth know on design and frontend development. But also backend if it is needed 😎
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=machuwey&theme=radical&layout=compact)
 
