@@ -1,7 +1,7 @@
 # Hi there 👋, I'm machuwey
 Focusing rigth know on design and frontend development (🎨). But also backend if it is needed 😎
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=machuwey&theme=radical&layout=compact)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **machuwey/machuwey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
