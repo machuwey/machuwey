@@ -1,8 +1,7 @@
 # Hi there 👋, I'm machuwey
-Buiding something...
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=machuwey&theme=radical&layout=compact)
-[![Machuwey's GitHub stats](https://github-readme-stats.vercel.app/api?username=machuwey&theme=radical&layout=compact)](https://github.com/machuwey/github-readme-stats)
-<!--
+<!--[![Machuwey's GitHub stats](https://github-readme-stats.vercel.app/api?username=machuwey&theme=radical&layout=compact)](https://github.com/machuwey/github-readme-stats)
+
 **machuwey/machuwey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
