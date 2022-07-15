@@ -1,5 +1,7 @@
 # Hi there 👋, I'm machuwey
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=machuwey&theme=radical&layout=compact)
+<span>Persuing software developing as a form of art and vehicle to improve the world. 
+PD: I 💘 automating things
 <!--[![Machuwey's GitHub stats](https://github-readme-stats.vercel.app/api?username=machuwey&theme=radical&layout=compact)](https://github.com/machuwey/github-readme-stats)
 
 **machuwey/machuwey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
