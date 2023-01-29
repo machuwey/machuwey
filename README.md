@@ -6,6 +6,5 @@
 <br>
 <div align="center">
   <div>Persuing software developing as a form of art and vehicle to improve the world. </div>
-  <div>PD: I 💘 automating things</div>
 </div>
 
